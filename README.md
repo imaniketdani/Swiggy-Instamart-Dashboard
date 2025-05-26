@@ -10,7 +10,6 @@ The dashboard provides actionable insights on product performance, order trends,
 To practice and showcase Power BI skills by building a complete end-to-end dashboard that includes:
 
 - Data loading and cleaning
-- Creating measures using DAX
 - Interactive visuals
 - Dashboard layout and formatting
 - Uploading and sharing via GitHub
@@ -73,7 +72,7 @@ To view this dashboard:
 
 Created by Aniket Dani 
  
-🔗 LinkedIn: [Your LinkedIn profile link]
+🔗 LinkedIn: [[Your LinkedIn profile link]](https://www.linkedin.com/in/aniket-dani-8156691b0/).
 
 ---
 ## ⭐ Star This Repository
