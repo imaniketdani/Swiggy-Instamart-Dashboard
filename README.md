@@ -60,12 +60,6 @@ To practice and showcase Power BI skills by building a complete end-to-end dashb
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional — Add screenshots of your dashboard here)*
-
----
-
 ## 🚀 How to View
 
 To view this dashboard:
